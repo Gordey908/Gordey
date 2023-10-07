@@ -24,7 +24,7 @@ public class GameController : MonoBehaviour
         scoreText.text = "Score: " + score.ToString();
     }
 
-    private void BackToMenu()
+    public void BackToMenu()
     {
         Time.timeScale = 1;
         SceneManager.LoadScene("Menu");
