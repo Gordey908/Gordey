@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5087979956712599014}
   - component: {fileID: 2785647780426851083}
   - component: {fileID: 1305935933122188343}
-  - component: {fileID: 8088388452532083266}
+  - component: {fileID: 1225356204363311493}
   m_Layer: 0
   m_Name: SnakeFood
   m_TagString: Food
@@ -159,7 +159,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &8088388452532083266
+--- !u!114 &1225356204363311493
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
